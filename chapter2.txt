@@ -1,0 +1,4 @@
+this is chapter 2 of git intro
+
+git log shows a unique id for every commit made
+git log also shows the commit messages for each commit

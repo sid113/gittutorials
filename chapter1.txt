@@ -1,0 +1,7 @@
+this is chapter 1 of git
+
+git init to initialize git
+git add  to add files
+git status to check the status of the git
+git log to check all the commits made so far
+git commit to commit all the changes made
